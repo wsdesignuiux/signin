@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">signin_1_new</string>
+
+
+
+    <string name="hello_world"><font fgcolor="#808080">Do not have an account?. </font>
+    <font fgcolor="#000000">Sign up</font></string>
+
+</resources>
